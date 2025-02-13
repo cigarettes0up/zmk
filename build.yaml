@@ -28,5 +28,5 @@
 ---
 
 include:
-  - shield: reviung41 ssd1306_128x32
+  - shield: reviung41
     board: nice_nano_v2
